@@ -1,0 +1,32 @@
+.saved-weather-details-container{
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+  
+.saved-city {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+  
+.saved-city-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+  
+.saved-city-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+  
+.saved-city-remove {
+    color: #ff0000;
+    cursor: pointer;
+}
+  
+.saved-city-details {
+    margin-top: 10px;
+}
